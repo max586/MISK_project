@@ -28,4 +28,3 @@ surf(X,T,u)
 xlabel('distance','Fontsize',20);
 ylabel('time','Fontsize',20);
 zlabel('temperature u(x,t)','Fontsize',20);
-
